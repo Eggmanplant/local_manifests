@@ -24,7 +24,7 @@
 	<project path="device/samsung/gtel3g" name="gtel3g/android_device_samsung_gtel3g" remote="github" revision="lineage-14.1-gtel3g"/>
 	<project path="hardware/sprd" name="gtel3g/android_hardware_sprd" remote="github" revision="lineage-14.1-gtel3g"/>
 	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
-	<project path="kernel/samsung/gtel3g" name="Eggmanplant/kernel_samsung_sc8830" remote="github" revision="cm-14.1-xen"/>
+	<project path="kernel/samsung/gtel3g" name="Eggmanplant/android_kernel_samsung_sc8830" remote="github" revision="cm-14.1-xen"/>
 	<project path="vendor/samsung/gtel3g" name="gtel3g/android_vendor_samsung_gtel3g" remote="github" revision="lineage-14.1-gtel3g"/>
 	<project path="vendor/samsung/scx30g-common" name="gtel3g/android_vendor_samsung_scx30g-common" remote="github" revision="lineage-14.1-gtel3g"/>
 </manifest>
